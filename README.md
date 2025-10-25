@@ -57,7 +57,8 @@ This ensures only **useful snapshots** are retained, directly reducing **wasted 
 
 Below is an example execution output showing successful deletion of a stale EBS snapshot:
 
-![Lambda Execution Result](Screenshot%202025-10-25%20124353.png)
+![Lambda Execution Result](<img width="1046" height="483" alt="Screenshot 2025-10-25 124353" src="https://github.com/user-attachments/assets/54d97846-964c-4932-8a3a-0259004668ac" />
+)
 
 > ✅ Deleted EBS snapshot as its associated volume was not found — optimizing AWS storage cost automatically!
 
@@ -84,5 +85,5 @@ With tools like **AWS Lambda** and **Boto3**, we can build **lightweight, server
 
 **Rehan Mohammed**  
 💼 Cloud Enthusiast | AWS Learner |  
-🔗 [LinkedIn](https://linkedin.com/in/)
+🔗 [LinkedIn](www.linkedin.com/in/mohammed-rehan-madanapalli-892915316)
 
